@@ -81,7 +81,8 @@ You can adjust the parameters of the simulation, such as `initial_capital`, `lev
 Example:
 ```python
 df_results = pd.read_csv("output_model_1.csv")
-evaluate_trading_strategy_and_verify(df_results, prediction_probability=0.6)```
+evaluate_trading_strategy_and_verify(df_results, prediction_probability=0.6)
+```
 
 ## Results
 
